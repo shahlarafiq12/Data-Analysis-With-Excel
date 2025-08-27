@@ -2,8 +2,8 @@
 I’m excited to share my latest store sales and profit dashboard designed for real time performance tracking and analysis.
 
 ## Dataset used
-- Dataset <a href=" https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/sales_profit.xlsx">Dataset view</a>
-- Dashboard <a href=" https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/excel-dashboard.PNG">Dashboard view</a>
+- Dataset <a href="https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/sales_profit.xlsx">Dataset view</a>
+- Dashboard <a href="https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/excel-dashboard.PNG">Dashboard view</a>
 
 ## Description
 ✅ Key Metrics Overview: Highlight total sales and total profit for quick performance snapshots. 
