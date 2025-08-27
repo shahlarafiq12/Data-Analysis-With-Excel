@@ -15,7 +15,8 @@ I’m excited to share my latest store sales and profit dashboard designed for r
 ✅ Top 5 Customers Profits: Identify and focus on most valuable customers. " 
 What’s Covered? 📊 Data preparation, and Data cleaning, 📈 Creating PivotTables to summarize key metrics 🎨 Designing charts and visual elements 🎯 Building a professional dashboard layout ready to showcase business insights and take data-driven decisions to the next level!
 
-<img width="942" height="493" alt="excel-dashboard" src="https://github.com/user-attachments/assets/ab722b21-281a-4976-aecd-5637771fb82c" />
+<img width="942" height="493" alt="excel-dashboard" src="https://github.com/user-attachments/assets/bb5963e0-7623-4853-a4ab-d3b2fb570a6c" />
+
 
 ## Conclusion
 This demographic represents a key consumer segment, as they often make significant houehold and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
