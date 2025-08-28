@@ -2,7 +2,7 @@
 I’m excited to share my latest store sales and profit dashboard designed for real time performance tracking and analysis.
 
 ## Dataset used
-- Dataset <a href="https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/sales_profit.xlsx">Dataset view</a>
+- Dataset <a href="https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/Sales%20and%20Profit%20Data.xlsx">Dataset view</a>
 - Dashboard <a href="https://github.com/shahlarafiq12/Data-Analysis-With-Excel/blob/main/excel-dashboard.PNG">Dashboard view</a>
 
 ## Description
